@@ -1,3 +1,5 @@
+# Adding comment section to test code push
+
 $action = "'{00000000-0000-0000-0000-000000000113}'"
 
 Invoke-WmiMethod -Namespace root\ccm -Class SMS_Client -Name TriggerSchedule($action) -ComputerName $computer
