@@ -1,9 +1,5 @@
 {
-    "Actions": [
-        {
-            "1": {
-                "Software Update Scan Cycle":"'{00000000-0000-0000-0000-000000000113}'"
-            }
-        }
-    ]
+    "Software Update Scan Cycle": "'{00000000-0000-0000-0000-000000000113}'",
+    "Software Update Deployment Evaluation Cycle": "'{00000000-0000-0000-0000-000000000108}'",
+    "Hardware Inventory Cycle": "'{00000000-0000-0000-0000-000000000001}'"
 }
